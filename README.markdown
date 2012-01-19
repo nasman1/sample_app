@@ -1,3 +1,6 @@
+#Ruby on rails: Sample App 
+This is the sample app. Author: Nassir.
+'
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
