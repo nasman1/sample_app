@@ -25,7 +25,7 @@ test:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: rails_tutorial_test
+  database: rails_tutorial
   pool: 5
   username: root
   password: nasman1
@@ -35,7 +35,7 @@ production:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: rails_tutorial_production
+  database: rails_tutorial
   pool: 5
   username: root
   password: nasman1
